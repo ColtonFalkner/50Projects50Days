@@ -6,6 +6,7 @@
 
 body {
   font-family: 'Muli', sans-serif;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
   display: flex;
   align-items: center;
   justify-content: center;
