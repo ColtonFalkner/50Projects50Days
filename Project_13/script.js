@@ -37,7 +37,7 @@ function randomSelect() {
         highlightTag(randomTag)
 
         setTimeout(() => {
-            unHighlightTag(randomTag)
+            unH6ighlightTag(randomTag)
         },100)
     }, 100);
 
